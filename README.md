@@ -52,3 +52,5 @@ Coming Soon TM
 ## Licensing
 
 This project is licensed under the Apache License 2.0.
+Best Project ever made
+thanks
